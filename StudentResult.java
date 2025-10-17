@@ -70,7 +70,7 @@ public class StudentResult
 {
     public static void main(String[] args) {
 	    Scanner sc=new Scanner(System.in);
-	    System.out.println("Enter number of students:");2
+	    System.out.println("Enter number of students:");
 	    int n=sc.nextInt();
 	    Student[] s=new Student[n];
 	    for (int i = 0; i < n; i++) {
@@ -124,5 +124,6 @@ public class StudentResult
                 sc.close();
 	}
 }	
+
 
 
