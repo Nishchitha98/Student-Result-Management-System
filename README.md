@@ -28,7 +28,7 @@ OOP concepts (Inheritance, Abstraction, Polymorphism)
 
 How to Run
 # Clone the repository
-git clone <https://github.com/Nishchitha98/Student-Result-Management-System>
+git clone <https://github.com/Nishchitha98/Student-Result-Management-System.git>
 
 # Navigate into project folder
 cd StudentResult
