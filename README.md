@@ -46,25 +46,41 @@ Project Structure
 StudentResult/
 │
 ├── Person.java          # Base class for Person
+
 ├── Student.java         # Derived class for Student
+
 ├── Exam.java            # Abstract class for Exam
+
 ├── InternalExam.java    # Internal Exam class
+
 ├── FinalExam.java       # Final Exam class
+
 ├── StudentResult.java   # Main class with menu interface
+
 └── README.md            # Project documentation
 
 Example Output
+
 Enter number of students: 2
+
 Enter details of student 1:
+
 Enter name: John Doe
+
 Enter age: 20
+
 Enter roll number: 101
+
 Enter marks: 85
 
 Enter details of student 2:
+
 Enter name: Jane Smith
+
 Enter age: 21
+
 Enter roll number: 102
+
 Enter marks: 92
 
 Menu:
